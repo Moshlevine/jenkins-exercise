@@ -2,12 +2,12 @@
 <testng-results total="2" passed="2" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2018-01-08T19:27:27Z" name="Suite" finished-at="2018-01-08T19:28:46Z" duration-ms="79380">
+  <suite started-at="2018-01-08T20:45:08Z" name="Suite" finished-at="2018-01-08T20:46:53Z" duration-ms="104805">
     <groups>
     </groups>
-    <test started-at="2018-01-08T19:27:27Z" name="TestIOS" finished-at="2018-01-08T19:28:43Z" duration-ms="75980">
+    <test started-at="2018-01-08T20:45:08Z" name="TestIOS" finished-at="2018-01-08T20:45:48Z" duration-ms="39509">
       <class name="com.experitest.auto.IOSDemoTest">
-        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:com.experitest.auto.IOSDemoTest@2f465398]" started-at="2018-01-08T21:27:27Z" name="setUp" finished-at="2018-01-08T21:28:13Z" duration-ms="45782" status="PASS">
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:com.experitest.auto.IOSDemoTest@2f465398]" started-at="2018-01-08T22:45:08Z" name="setUp" finished-at="2018-01-08T22:45:35Z" duration-ms="26814" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -18,19 +18,19 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="test()[pri:0, instance:com.experitest.auto.IOSDemoTest@2f465398]" started-at="2018-01-08T21:28:13Z" name="test" finished-at="2018-01-08T21:28:13Z" duration-ms="6" status="PASS">
+        <test-method signature="test()[pri:0, instance:com.experitest.auto.IOSDemoTest@2f465398]" started-at="2018-01-08T22:45:35Z" name="test" finished-at="2018-01-08T22:45:35Z" duration-ms="7" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.experitest.auto.IOSDemoTest@2f465398]" started-at="2018-01-08T21:28:13Z" name="tearDown" finished-at="2018-01-08T21:28:43Z" duration-ms="30169" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.experitest.auto.IOSDemoTest@2f465398]" started-at="2018-01-08T22:45:35Z" name="tearDown" finished-at="2018-01-08T22:45:48Z" duration-ms="12664" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- com.experitest.auto.IOSDemoTest -->
     </test> <!-- TestIOS -->
-    <test started-at="2018-01-08T19:27:27Z" name="TestAndroid" finished-at="2018-01-08T19:28:46Z" duration-ms="79380">
+    <test started-at="2018-01-08T20:45:08Z" name="TestAndroid" finished-at="2018-01-08T20:46:53Z" duration-ms="104805">
       <class name="com.experitest.auto.AndroidDemoTest">
-        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:com.experitest.auto.AndroidDemoTest@2a266d09]" started-at="2018-01-08T21:27:27Z" name="setUp" finished-at="2018-01-08T21:28:14Z" duration-ms="47283" status="PASS">
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:com.experitest.auto.AndroidDemoTest@2a266d09]" started-at="2018-01-08T22:45:08Z" name="setUp" finished-at="2018-01-08T22:46:37Z" duration-ms="88664" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -41,11 +41,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="test()[pri:0, instance:com.experitest.auto.AndroidDemoTest@2a266d09]" started-at="2018-01-08T21:28:14Z" name="test" finished-at="2018-01-08T21:28:14Z" duration-ms="1" status="PASS">
+        <test-method signature="test()[pri:0, instance:com.experitest.auto.AndroidDemoTest@2a266d09]" started-at="2018-01-08T22:46:37Z" name="test" finished-at="2018-01-08T22:46:37Z" duration-ms="3" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.experitest.auto.AndroidDemoTest@2a266d09]" started-at="2018-01-08T21:28:14Z" name="tearDown" finished-at="2018-01-08T21:28:46Z" duration-ms="32076" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.experitest.auto.AndroidDemoTest@2a266d09]" started-at="2018-01-08T22:46:37Z" name="tearDown" finished-at="2018-01-08T22:46:53Z" duration-ms="16121" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
