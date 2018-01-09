@@ -18,7 +18,7 @@ public class BaseTest {
 		dc.setCapability("deviceQuery", adhocDevice(deviceQuery));
 		dc.setCapability("reportDirectory", "reports");
 		dc.setCapability("reportFormat", "xml");
-		dc.setCapability("stream", "jenkins exercise");
+		dc.setCapability("stream", "Mosh jenkins exercise");
 		dc.setCapability("built.number", System.getenv("BUILD_NUMBER"));
 
 		
