@@ -19,7 +19,7 @@ public class BaseTest {
 		dc.setCapability("reportDirectory", "reports");
 		dc.setCapability("reportFormat", "xml");
 		dc.setCapability("stream", "Mosh jenkins exercise");
-		dc.setCapability("built.number", System.getenv("BUILD_NUMBER"));
+		dc.setCapability("built.number", System.getenv("BUILD NUMBER"));
 
 		
 		dc.setCapability("accessKey", getProperty("accessKey", cloudProperties));
